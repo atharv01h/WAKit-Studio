@@ -2,6 +2,11 @@
   <img src="https://img.shields.io/badge/WAKit-Studio-10b981?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WAKit Studio Logo" />
   <h1>WAKit Studio</h1>
   <p><strong>A beautiful, stateless, node-based visual builder for WhatsApp bots.</strong></p>
+  
+  <p>
+    <a href="https://wakitstudio.netlify.app/"><strong>Live Demo</strong></a> • 
+    <a href="https://github.com/atharv01h/WAKit-Studio"><strong>GitHub Repository</strong></a>
+  </p>
 </div>
 
 ---
